@@ -23,8 +23,8 @@ Black GND
 */
 
 // Network credentials
-const char* ssid = "ESP32-Network";
-const char* password = "Esp32-Password";
+const char* ssid = "Compsognathus-Network";
+const char* password = "Compsognathus-Password";
 
 const unsigned int localUdpPort = 4210;
 WiFiUDP udp;
